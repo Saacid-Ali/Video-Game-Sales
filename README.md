@@ -1,6 +1,6 @@
 # Video-Game-Sales
 * Visualised the sales of video games on PS4 and Xbox One
-* Wrote a report 
+* Wrote a report that analyses the sales of video games on PS4 and Xbox One.
 
 
 ## Code and Resources Used 
@@ -30,3 +30,12 @@ Once the data was collected from Kaggle, the data needed to be cleaned prior to 
 
 ## EDA and Data Analysis
 I looked at the distributions of the data and the value counts for the various categorical variables and also analysed the data to identify key trend. Below are a few highlights.
+
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/fig1.png)
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/Genre_Sales.png)
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/Pub_Sales1RB.png)
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/fig2.png)
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/fig3.png)
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/fig4.png)
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/fig5.png)
+![alt text](https://github.com/Saacid-Ali/Video-Game-Sales/blob/master/fig6.png)
